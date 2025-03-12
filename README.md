@@ -1,3 +1,2 @@
-https://github.com/Chovice/Codelab-main
-
+https://chovice.github.io/Codelab-main/
 
